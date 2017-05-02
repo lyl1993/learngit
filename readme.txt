@@ -3,4 +3,8 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 git dev test AND add
 git merge
+<<<<<<< HEAD
 
+=======
+try fast forward
+>>>>>>> dev
